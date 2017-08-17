@@ -12,6 +12,7 @@ public class Exemple_Test {
 	@Test
 	public void testQuiEchoue() {
 		fail();
+		;
 	}
 
   
